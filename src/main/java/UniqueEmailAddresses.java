@@ -8,12 +8,14 @@ public class UniqueEmailAddresses {
         for (String email : emails) {
             String[] beforeAt = email.split("@");
             StringBuilder sb = new StringBuilder(beforeAt[0]);
+
             while (sb.indexOf("+") != -1) {
                 sb.delete(sb.indexOf("+"), sb.length());
             }
             while (sb.indexOf(".") != -1) {
                 sb.deleteCharAt(sb.indexOf("."));
             }
+            
             sb.append("@").append(beforeAt[1]);
             unique.add(sb.toString());
         }

@@ -1,6 +1,6 @@
 public class main {
     public static void main(String[] args) {
-        UniqueEmailAddresses ue = new UniqueEmailAddresses();
-        ue.solution();
+        ReverseOnlyLetters rl =  new ReverseOnlyLetters();
+        rl.solution();
     }
 }
