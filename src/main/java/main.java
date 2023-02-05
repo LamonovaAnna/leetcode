@@ -1,6 +1,6 @@
 public class main {
     public static void main(String[] args) {
-        SelfDividingNumbers sd = new SelfDividingNumbers();
-        sd.solution();
+        ShortestCompletingWord sc = new ShortestCompletingWord();
+        sc.solution();
     }
 }
