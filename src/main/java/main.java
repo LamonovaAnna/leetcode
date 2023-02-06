@@ -1,6 +1,6 @@
 public class main {
     public static void main(String[] args) {
-        ShortestCompletingWord sc = new ShortestCompletingWord();
-        sc.solution();
+        UncommonWordsFromTwoSentences2 uw = new UncommonWordsFromTwoSentences2();
+        uw.solution();
     }
 }
