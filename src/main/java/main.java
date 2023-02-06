@@ -1,6 +1,6 @@
 public class main {
     public static void main(String[] args) {
-        DeleteColumnsToMakeSorted dc = new DeleteColumnsToMakeSorted();
-        dc.solution();
+        ShortestDistanceToACharacter sd = new ShortestDistanceToACharacter();
+        sd.solution();
     }
 }
