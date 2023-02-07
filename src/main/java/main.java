@@ -1,6 +1,6 @@
 public class main {
     public static void main(String[] args) {
-        RobotReturnToOrigin rr = new RobotReturnToOrigin();
-        rr.solution();
+        MajorityElement me = new MajorityElement();
+        me.solution();
     }
 }
