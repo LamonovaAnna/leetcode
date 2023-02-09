@@ -1,7 +1,7 @@
 package _0_999._0_99;
 
 //20. Valid Parentheses
-public class ValidParenthesesTODO {
+public class _20_ValidParenthesesTODO {
 
     public boolean isValid(String s) {
         StringBuilder sb = new StringBuilder(s);

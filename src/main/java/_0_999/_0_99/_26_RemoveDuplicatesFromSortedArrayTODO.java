@@ -7,7 +7,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 //26. Remove Duplicates from Sorted Array
-public class RemoveDuplicatesFromSortedArrayTODO {
+public class _26_RemoveDuplicatesFromSortedArrayTODO {
     public int removeDuplicates(int[] nums) {
         Set<Integer> remover = Arrays.stream(nums).boxed().collect(Collectors.toCollection(LinkedHashSet::new));
         nums = new ArrayList<>(remover).stream().mapToInt(Integer::intValue).toArray();

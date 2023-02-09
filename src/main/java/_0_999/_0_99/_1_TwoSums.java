@@ -3,7 +3,7 @@ package _0_999._0_99;
 import java.util.Arrays;
 
 //1. Two Sum
-public class TwoSums {
+public class _1_TwoSums {
     public int[] twoSum(int[] nums, int target) {
         int[] sum = new int[2];
         int firstIndex = -1;
