@@ -1,7 +1,7 @@
 package _0_999._700_799;
 
 //748. Shortest Completing Word
-public class ShortestCompletingWord {
+public class _748_ShortestCompletingWord {
     public String shortestCompletingWord(String licensePlate, String[] words) {
 
         StringBuilder letters = new StringBuilder();

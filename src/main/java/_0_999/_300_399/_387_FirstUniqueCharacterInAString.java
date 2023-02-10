@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //387. First Unique Character in a String
-public class FirstUniqueCharacterInAString {
+public class _387_FirstUniqueCharacterInAString {
     public int firstUniqChar(String s) {
         Map<Character, Integer> letters = new HashMap<>();
 

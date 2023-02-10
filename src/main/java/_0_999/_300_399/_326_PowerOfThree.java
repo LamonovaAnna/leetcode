@@ -1,7 +1,7 @@
 package _0_999._300_399;
 
 //326. Power of Three
-public class PowerOfThree {
+public class _326_PowerOfThree {
     public boolean isPowerOfThree(int n) {
         int root = 0;
         int temp = n;

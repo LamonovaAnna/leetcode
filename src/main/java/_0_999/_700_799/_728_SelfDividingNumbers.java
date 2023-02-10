@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //728. Self Dividing Numbers
-public class SelfDividingNumbers {
+public class _728_SelfDividingNumbers {
     public List<Integer> selfDividingNumbers(int left, int right) {
         List<Integer> result = new ArrayList<>();
         for (int i = left; i <= right; i++) {

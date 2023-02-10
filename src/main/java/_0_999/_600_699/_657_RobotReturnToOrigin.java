@@ -1,7 +1,7 @@
 package _0_999._600_699;
 
 //657. Robot Return to Origin
-public class RobotReturnToOrigin {
+public class _657_RobotReturnToOrigin {
     public boolean judgeCircle(String moves) {
         int upDown = 0;
         int rightLeft = 0;

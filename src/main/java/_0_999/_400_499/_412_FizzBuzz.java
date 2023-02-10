@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //412. Fizz Buzz
-public class FizzBuzz {
+public class _412_FizzBuzz {
     public List<String> fizzBuzz(int n) {
         List<String> num = new ArrayList<>();
         for (int i = 1; i <= n; i++) {

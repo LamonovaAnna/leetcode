@@ -1,7 +1,7 @@
 package _0_999._300_399;
 
 //344. Reverse String
-public class ReverseString {
+public class _344_ReverseString {
     public void reverseString(char[] s) {
         int counter = 0;
         for (int i = 0; i < s.length; i++) {

@@ -1,7 +1,7 @@
 package _0_999._500_599;
 
 //557. Reverse Words in a String III
-public class ReverseWordsInAStringIII {
+public class _557_ReverseWordsInAStringIII {
     public String reverseWords(String s) {
         String[] split = s.split(" ");
         StringBuilder result = new StringBuilder();

@@ -1,7 +1,7 @@
 package _0_999._300_399;
 
 //342. Power of Four
-public class PowerOfFour {
+public class _342_PowerOfFour {
     public boolean isPowerOfFour(int n) {
         if (n == 1 || n == 4) {
             return true;

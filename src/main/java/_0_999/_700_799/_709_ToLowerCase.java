@@ -1,7 +1,7 @@
 package _0_999._700_799;
 
 //709. To Lower Case
-public class ToLowerCase {
+public class _709_ToLowerCase {
 
     public String toLowerCase(String s) {
         return s.toLowerCase();

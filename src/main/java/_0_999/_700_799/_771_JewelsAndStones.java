@@ -1,7 +1,7 @@
 package _0_999._700_799;
 
 //771. Jewels and Stones
-public class JewelsAndStones {
+public class _771_JewelsAndStones {
     public int numJewelsInStones(String jewels, String stones) {
         int counter = 0;
         for (int i = 0; i < jewels.length(); i++) {
