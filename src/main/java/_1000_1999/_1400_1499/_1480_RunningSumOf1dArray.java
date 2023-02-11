@@ -3,7 +3,7 @@ package _1000_1999._1400_1499;
 import java.util.Arrays;
 
 //1480. Running Sum of 1d Array
-public class RunningSumOf1dArray {
+public class _1480_RunningSumOf1dArray {
     public int[] runningSum(int[] nums) {
         int sum = 0;
         int[] result = new int[nums.length];

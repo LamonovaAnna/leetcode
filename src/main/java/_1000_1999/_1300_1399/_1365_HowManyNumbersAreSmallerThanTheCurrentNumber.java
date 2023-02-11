@@ -3,7 +3,7 @@ package _1000_1999._1300_1399;
 import java.util.Arrays;
 
 // 1365. How Many Numbers Are Smaller Than the Current Number
-public class HowManyNumbersAreSmallerThanTheCurrentNumber {
+public class _1365_HowManyNumbersAreSmallerThanTheCurrentNumber {
     public int[] smallerNumbersThanCurrent(int[] nums) {
         int counter = 0;
         int[] result = new int[nums.length];

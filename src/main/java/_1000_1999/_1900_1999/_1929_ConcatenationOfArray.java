@@ -3,7 +3,7 @@ package _1000_1999._1900_1999;
 import java.util.Arrays;
 
 //1929. Concatenation of Array
-public class ConcatenationOfArray {
+public class _1929_ConcatenationOfArray {
     public int[] getConcatenation(int[] nums) {
         int[] copy = new int[nums.length * 2];
         int counter = 0;

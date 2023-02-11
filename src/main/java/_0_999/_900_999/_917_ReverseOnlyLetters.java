@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //917. Reverse Only Letters
-public class ReverseOnlyLetters {
+public class _917_ReverseOnlyLetters {
     public String reverseOnlyLetters(String s) {
         Map<Integer, Character> symbols = new HashMap<>();
         StringBuilder sb = new StringBuilder(s);

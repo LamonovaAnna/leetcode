@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 //929. Unique Email Addresses
-public class UniqueEmailAddresses {
+public class _929_UniqueEmailAddresses {
     public int numUniqueEmails(String[] emails) {
         Set<String> unique = new HashSet<>();
         for (String email : emails) {

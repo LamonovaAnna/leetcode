@@ -4,7 +4,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 
 //804. Unique Morse Code Words
-public class UniqueMorseCodeWords {
+public class _804_UniqueMorseCodeWords {
     public int uniqueMorseRepresentations(String[] words) {
         String[] alphabet = {".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",
                 ".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};

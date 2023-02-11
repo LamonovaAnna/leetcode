@@ -3,7 +3,7 @@ package _0_999._800_899;
 import java.util.Arrays;
 
 //832. Flipping an Image
-public class FlippingAnImage {
+public class _832_FlippingAnImage {
     public int[][] flipAndInvertImage(int[][] image) {
         for (int i = 0; i < image.length; i++) {
             int counter = 0;

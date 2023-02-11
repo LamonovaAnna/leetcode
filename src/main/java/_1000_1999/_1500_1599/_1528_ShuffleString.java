@@ -1,7 +1,7 @@
 package _1000_1999._1500_1599;
 
 //1528. Shuffle String
-public class ShuffleString {
+public class _1528_ShuffleString {
     public String restoreString(String s, int[] indices) {
         StringBuilder sb = new StringBuilder(s);
         for (int i  = 0; i < indices.length; i++) {

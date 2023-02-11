@@ -3,7 +3,7 @@ package _1000_1999._1000_1099;
 import java.util.Arrays;
 
 //1046. Last Stone Weight
-public class LastStoneWeight {
+public class _1046_LastStoneWeight {
     public int lastStoneWeight(int[] stones) {
         if (stones.length == 1) {
             return stones[0];

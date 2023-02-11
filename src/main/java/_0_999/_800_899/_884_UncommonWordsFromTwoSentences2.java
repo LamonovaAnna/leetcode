@@ -2,11 +2,10 @@ package _0_999._800_899;
 
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 
 //884. Uncommon Words from Two Sentences
-public class UncommonWordsFromTwoSentences2 {
+public class _884_UncommonWordsFromTwoSentences2 {
     public String[] uncommonFromSentences(String s1, String s2) {
         Map<String, Integer> unique = new HashMap<>();
 

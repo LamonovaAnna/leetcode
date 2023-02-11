@@ -3,7 +3,7 @@ package _1000_1999._1400_1499;
 import java.util.Arrays;
 
 //1470. Shuffle the Array
-public class ShuffleTheArray {
+public class _1470_ShuffleTheArray {
     public int[] shuffle(int[] nums, int n) {
         int counter = 0;
         int[] half = Arrays.copyOfRange(nums, n, nums.length);

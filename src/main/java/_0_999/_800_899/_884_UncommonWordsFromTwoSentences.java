@@ -3,7 +3,7 @@ package _0_999._800_899;
 import java.util.*;
 
 //884. Uncommon Words from Two Sentences
-public class UncommonWordsFromTwoSentences {
+public class _884_UncommonWordsFromTwoSentences {
     public String[] uncommonFromSentences(String s1, String s2) {
         List<String> unique = new ArrayList<>();
         unique.addAll(List.of(s1.split(" ")));

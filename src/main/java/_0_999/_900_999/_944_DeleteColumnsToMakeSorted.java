@@ -1,7 +1,7 @@
 package _0_999._900_999;
 
 //944. Delete Columns to Make Sorted
-public class DeleteColumnsToMakeSorted {
+public class _944_DeleteColumnsToMakeSorted {
     public int minDeletionSize(String[] strs) {
         int counter = 0;
         for (int i = 0; i < strs[0].length(); i++) {

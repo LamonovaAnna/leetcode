@@ -1,7 +1,7 @@
 package _2000_2999._2100_2199;
 
 //2114. Maximum Number of Words Found in Sentences
-public class MaximumNumberOfWordsFoundInSentences {
+public class _2114_MaximumNumberOfWordsFoundInSentences {
     public int mostWordsFound(String[] sentences) {
         int max = 0;
         for (String sentence : sentences) {

@@ -1,7 +1,7 @@
 package _1000_1999._1100_1199;
 
 //1108. Defanging an IP Address
-public class DefangingAnIPAddress {
+public class _1108_DefangingAnIPAddress {
     public String defangIPaddr(String address) {
         return address.replace(".", "[.]");
 

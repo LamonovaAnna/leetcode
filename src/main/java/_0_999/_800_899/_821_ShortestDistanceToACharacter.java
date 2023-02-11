@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 // 821. Shortest Distance to a Character
-public class ShortestDistanceToACharacter {
+public class _821_ShortestDistanceToACharacter {
     public int[] shortestToChar(String s, char c) {
         int[] result = new int[s.length()];
         List<Integer> indexes = new ArrayList<>();
