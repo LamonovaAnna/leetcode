@@ -6,7 +6,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 //217. Contains Duplicate
-public class ContainsDuplicate {
+public class _217_ContainsDuplicate {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> singleOnly = Arrays.stream(nums).boxed().collect(Collectors.toCollection(LinkedHashSet::new));
         return singleOnly.size() < nums.length;

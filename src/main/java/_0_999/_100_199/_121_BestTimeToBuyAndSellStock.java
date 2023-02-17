@@ -1,7 +1,7 @@
 package _0_999._100_199;
 
 //121. Best Time to Buy and Sell Stock
-public class BestTimeToBuyAndSellStock {
+public class _121_BestTimeToBuyAndSellStock {
     public int maxProfit(int[] prices) {
         int minPrice = Integer.MAX_VALUE;
         int maxProfit = 0;

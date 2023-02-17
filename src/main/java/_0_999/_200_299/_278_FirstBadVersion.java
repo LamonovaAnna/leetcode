@@ -1,7 +1,7 @@
 package _0_999._200_299;
 
 //278. First Bad Version
-public class FirstBadVersion {
+public class _278_FirstBadVersion {
 
     public int firstBadVersion(int n) {
         int i = n / 2;

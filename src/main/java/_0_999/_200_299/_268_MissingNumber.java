@@ -3,7 +3,7 @@ package _0_999._200_299;
 import java.util.Arrays;
 
 //268. Missing Number
-public class MissingNumber {
+public class _268_MissingNumber {
     public int missingNumber(int[] nums) {
         Arrays.sort(nums);
         for (int i = 0; i < nums.length; i++) {

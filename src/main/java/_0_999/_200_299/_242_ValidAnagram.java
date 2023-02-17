@@ -1,7 +1,7 @@
 package _0_999._200_299;
 
 //242. Valid Anagram
-public class ValidAnagram {
+public class _242_ValidAnagram {
     public boolean isAnagram(String s, String t) {
         if (s.length() == t.length()) {
             StringBuilder sb = new StringBuilder(s);

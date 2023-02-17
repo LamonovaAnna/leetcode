@@ -1,7 +1,7 @@
 package _0_999._200_299;
 
 //258. Add Digits
-public class AddDigits {
+public class _258_AddDigits {
     public int addDigits(int num) {
         char[] charArr = String.valueOf(num).toCharArray();
         if(charArr.length == 1) {

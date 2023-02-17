@@ -3,7 +3,7 @@ package _0_999._100_199;
 import java.util.Arrays;
 
 //169. Majority Element
-public class MajorityElement {
+public class _169_MajorityElement {
     public int majorityElement(int[] nums) {
         Arrays.parallelSort(nums);
         int size = nums.length / 2;

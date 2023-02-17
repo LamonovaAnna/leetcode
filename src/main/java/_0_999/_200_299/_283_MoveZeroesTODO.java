@@ -3,7 +3,7 @@ package _0_999._200_299;
 import java.util.Arrays;
 
 //283. Move Zeroes
-public class MoveZeroesTODO {
+public class _283_MoveZeroesTODO {
     public void moveZeroes(int[] nums) {
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] == 0) {

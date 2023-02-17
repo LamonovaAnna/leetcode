@@ -1,7 +1,7 @@
 package _0_999._200_299;
 
 //231. Power of Two
-public class PowerOfTwo {
+public class _231_PowerOfTwo {
     public boolean isPowerOfTwo(int n) {
         if (n == 1 || n == 2) {
             return true;

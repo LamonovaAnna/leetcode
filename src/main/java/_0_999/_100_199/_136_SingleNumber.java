@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 //136. Single Number
-public class SingleNumber {
+public class _136_SingleNumber {
     public int singleNumber(int[] nums) {
         if (nums.length == 1) {
             return nums[0];
