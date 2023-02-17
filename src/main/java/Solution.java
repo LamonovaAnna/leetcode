@@ -1,8 +1,8 @@
-import _0_999._400_499._415_AddStrings;
+import _0_999._0_99._26_RemoveDuplicatesFromSortedArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _415_AddStrings as = new _415_AddStrings();
-        as.solution();
+        _26_RemoveDuplicatesFromSortedArray rd = new _26_RemoveDuplicatesFromSortedArray();
+        rd.solution();
     }
 }
