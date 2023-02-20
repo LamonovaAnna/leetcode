@@ -1,7 +1,7 @@
 package _0_999._0_99;
 
 //12. Integer to Roman
-public class _12_IntegerToRomanTODO {
+public class _12_IntegerToRoman {
     public String intToRoman(int num) {
         StringBuilder sb = new StringBuilder();
         while (num != 0) {
