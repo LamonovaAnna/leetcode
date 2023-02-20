@@ -1,9 +1,8 @@
-import _1000_1999._1000_1099._1089_DuplicateZeros;
-import _1000_1999._1600_1699._1672_RichestCustomerWealth;
+import _0_999._500_599._541_ReverseStringII;
 
 public class Solution {
     public static void main(String[] args) {
-        _1089_DuplicateZeros dz = new _1089_DuplicateZeros();
-        dz.solution();
+        _541_ReverseStringII rs = new _541_ReverseStringII();
+        rs.solution();
     }
 }
