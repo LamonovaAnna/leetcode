@@ -1,8 +1,8 @@
-import _0_999._0_99._35_SearchInsertPosition;
+import _0_999._500_599._540_SingleElementInASortedArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _35_SearchInsertPosition si = new _35_SearchInsertPosition();
-        si.solution();
+        _540_SingleElementInASortedArray se = new _540_SingleElementInASortedArray();
+        se.solution();
     }
 }
