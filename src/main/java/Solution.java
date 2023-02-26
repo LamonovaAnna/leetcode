@@ -1,8 +1,8 @@
-import _2000_2999._2300_2399._2384_LargestPalindromicNumber;
+import _0_999._300_399._392_IsSubsequence;
 
 public class Solution {
     public static void main(String[] args) {
-        _2384_LargestPalindromicNumber lp = new _2384_LargestPalindromicNumber();
-        lp.solution();
+        _392_IsSubsequence is = new _392_IsSubsequence();
+        is.solution();
     }
 }
