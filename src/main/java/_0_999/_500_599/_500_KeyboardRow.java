@@ -36,7 +36,5 @@ public class _500_KeyboardRow {
         System.out.println(Arrays.toString(findWords(new String[]{"adsdf","sfd"})));
         System.out.println(Arrays.toString(findWords(new String[]{"omk"})));
         System.out.println(Arrays.toString(findWords(new String[]{"Hello", "Alaska", "Dad", "Peace"})));
-
-
     }
 }
