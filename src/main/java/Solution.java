@@ -1,8 +1,8 @@
-import _0_999._500_599._500_KeyboardRow;
+import _0_999._400_499._482_LicenseKeyFormatting;
 
 public class Solution {
     public static void main(String[] args) {
-        _500_KeyboardRow kr = new _500_KeyboardRow();
-        kr.solution();
+        _482_LicenseKeyFormatting lk = new _482_LicenseKeyFormatting();
+        lk.solution();
     }
 }
