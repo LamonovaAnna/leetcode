@@ -1,8 +1,8 @@
-import _0_999._500_599._504_Base7;
+import _0_999._900_999._977_SquaresOfASortedArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _504_Base7 b = new _504_Base7();
-        b.solution();
+        _977_SquaresOfASortedArray sa = new _977_SquaresOfASortedArray();
+        sa.solution();
     }
 }
