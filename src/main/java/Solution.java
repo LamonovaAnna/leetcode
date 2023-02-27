@@ -1,8 +1,8 @@
-import _0_999._400_499._482_LicenseKeyFormatting;
+import _0_999._500_599._504_Base7;
 
 public class Solution {
     public static void main(String[] args) {
-        _482_LicenseKeyFormatting lk = new _482_LicenseKeyFormatting();
-        lk.solution();
+        _504_Base7 b = new _504_Base7();
+        b.solution();
     }
 }
