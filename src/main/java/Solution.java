@@ -1,8 +1,8 @@
-import _0_999._900_999._977_SquaresOfASortedArray;
+import _0_999._100_199._189_RotateArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _977_SquaresOfASortedArray sa = new _977_SquaresOfASortedArray();
-        sa.solution();
+        _189_RotateArray ra = new _189_RotateArray();
+        ra.solution();
     }
 }
