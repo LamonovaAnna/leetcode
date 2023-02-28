@@ -1,8 +1,10 @@
-import _0_999._100_199._167_TwoSumIIInputArrayIsSorted;
+import _0_999._0_99._14_LongestCommonPrefix;
 
 public class Solution {
     public static void main(String[] args) {
-        _167_TwoSumIIInputArrayIsSorted ts = new _167_TwoSumIIInputArrayIsSorted();
-        ts.solution();
+        _14_LongestCommonPrefix lc = new _14_LongestCommonPrefix();
+        lc.solution();
     }
+
+
 }
