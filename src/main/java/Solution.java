@@ -1,9 +1,9 @@
-import _0_999._0_99._14_LongestCommonPrefix;
+import _0_999._0_99._66_PlusOne;
 
 public class Solution {
     public static void main(String[] args) {
-        _14_LongestCommonPrefix lc = new _14_LongestCommonPrefix();
-        lc.solution();
+        _66_PlusOne po = new _66_PlusOne();
+        po.solution();
     }
 
 
