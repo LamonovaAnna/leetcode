@@ -1,9 +1,9 @@
-import _0_999._0_99._66_PlusOne;
+import _0_999._700_799._746_MinCostClimbingStairs;
 
 public class Solution {
     public static void main(String[] args) {
-        _66_PlusOne po = new _66_PlusOne();
-        po.solution();
+        _746_MinCostClimbingStairs mc = new _746_MinCostClimbingStairs();
+        mc.solution();
     }
 
 
