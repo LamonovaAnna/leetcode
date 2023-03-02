@@ -1,9 +1,9 @@
-import _0_999._400_499._443_StringCompression;
+import _0_999._0_99._19_RemoveNthNodeFromEndOfList;
 
 public class Solution {
     public static void main(String[] args) {
-        _443_StringCompression sc = new _443_StringCompression();
-        sc.solution();
+        _19_RemoveNthNodeFromEndOfList rn = new _19_RemoveNthNodeFromEndOfList();
+        rn.solution();
     }
 
 

@@ -62,7 +62,6 @@ public class _443_StringCompression {
 
     public void solution() {
         System.out.println(compress(new char[]{'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b'}));
-
         System.out.println(compress(new char[]{'c','o','o'}));
         System.out.println(compress(new char[]{'a','a','a','a','b','a'}));
         System.out.println(compress(new char[]{'a', 'a'}));
