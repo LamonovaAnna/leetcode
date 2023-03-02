@@ -1,9 +1,9 @@
-import _0_999._700_799._746_MinCostClimbingStairs;
+import _0_999._400_499._443_StringCompression;
 
 public class Solution {
     public static void main(String[] args) {
-        _746_MinCostClimbingStairs mc = new _746_MinCostClimbingStairs();
-        mc.solution();
+        _443_StringCompression sc = new _443_StringCompression();
+        sc.solution();
     }
 
 
