@@ -1,9 +1,9 @@
-import _0_999._0_99._28_FindTheIndexOfTheFirstOccurrenceInAString;
+import _0_999._700_799._744_FindSmallestLetterGreaterThanTarget;
 
 public class Solution {
     public static void main(String[] args) {
-        _28_FindTheIndexOfTheFirstOccurrenceInAString fi = new _28_FindTheIndexOfTheFirstOccurrenceInAString();
-        fi.solution();
+        _744_FindSmallestLetterGreaterThanTarget fs = new _744_FindSmallestLetterGreaterThanTarget();
+        fs.solution();
     }
 
 }
