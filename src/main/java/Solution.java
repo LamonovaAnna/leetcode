@@ -1,9 +1,9 @@
-import _2000_2999._2500_2599._2529_MaximumCountOfPositiveIntegerAndNegativeInteger;
+import _0_999._800_899._896_MonotonicArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _2529_MaximumCountOfPositiveIntegerAndNegativeInteger mc = new _2529_MaximumCountOfPositiveIntegerAndNegativeInteger();
-        mc.solution();
+        _896_MonotonicArray ma = new _896_MonotonicArray();
+        ma.solution();
     }
 
 }
