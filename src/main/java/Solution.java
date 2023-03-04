@@ -1,9 +1,9 @@
-import _0_999._800_899._896_MonotonicArray;
+import _1000_1999._1300_1399._1351_CountNegativeNumbersInaSortedMatrix;
 
 public class Solution {
     public static void main(String[] args) {
-        _896_MonotonicArray ma = new _896_MonotonicArray();
-        ma.solution();
+        _1351_CountNegativeNumbersInaSortedMatrix cn = new _1351_CountNegativeNumbersInaSortedMatrix();
+        cn.solution();
     }
 
 }
