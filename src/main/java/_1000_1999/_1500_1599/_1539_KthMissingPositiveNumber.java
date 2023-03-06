@@ -31,7 +31,5 @@ public class _1539_KthMissingPositiveNumber {
     public void solution() {
         System.out.println(findKthPositive(new int[]{1, 2, 3, 4}, 2));
         System.out.println(findKthPositive(new int[]{2, 3, 4, 7, 11}, 5));
-
-
     }
 }
