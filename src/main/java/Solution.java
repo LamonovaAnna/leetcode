@@ -1,9 +1,9 @@
-import _1000_1999._1500_1599._1507_ReformatDate;
+import _2000_2999._2200_2299._2243_CalculateDigitSumOfAString;
 
 public class Solution {
     public static void main(String[] args) {
-        _1507_ReformatDate rd = new _1507_ReformatDate();
-        rd.solution();
+        _2243_CalculateDigitSumOfAString cd = new _2243_CalculateDigitSumOfAString();
+        cd.solution();
     }
 
 }
