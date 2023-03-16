@@ -1,9 +1,9 @@
-import _2000_2999._2200_2299._2243_CalculateDigitSumOfAString;
+import _1000_1999._1300_1399._1331_RankTransformOfAnArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _2243_CalculateDigitSumOfAString cd = new _2243_CalculateDigitSumOfAString();
-        cd.solution();
+        _1331_RankTransformOfAnArray ra = new _1331_RankTransformOfAnArray();
+        ra.solution();
     }
 
 }
