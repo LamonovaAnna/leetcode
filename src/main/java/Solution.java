@@ -1,9 +1,9 @@
-import _2000_2999._2000_2099._2089_FindTargetIndicesAfterSortingArray;
+import _0_999._0_99._34_FindFirstAndLastPositionOfElementInSortedArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _2089_FindTargetIndicesAfterSortingArray ft = new _2089_FindTargetIndicesAfterSortingArray();
-        ft.solution();
+        _34_FindFirstAndLastPositionOfElementInSortedArray ff = new _34_FindFirstAndLastPositionOfElementInSortedArray();
+        ff.solution();
     }
 
 }
