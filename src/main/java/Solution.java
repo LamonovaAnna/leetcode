@@ -1,9 +1,9 @@
-import _1000_1999._1300_1399._1331_RankTransformOfAnArray;
+import _2000_2999._2000_2099._2089_FindTargetIndicesAfterSortingArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _1331_RankTransformOfAnArray ra = new _1331_RankTransformOfAnArray();
-        ra.solution();
+        _2089_FindTargetIndicesAfterSortingArray ft = new _2089_FindTargetIndicesAfterSortingArray();
+        ft.solution();
     }
 
 }
