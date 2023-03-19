@@ -1,9 +1,9 @@
-import _1000_1999._1200_1299._1252_CellsWithOddValuesInAMatrix;
+import _2000_2999._2300_2399._2303_CalculateAmountPaidInTaxes;
 
 public class Solution {
     public static void main(String[] args) {
-        _1252_CellsWithOddValuesInAMatrix cm = new _1252_CellsWithOddValuesInAMatrix();
-        cm.solution();
+        _2303_CalculateAmountPaidInTaxes ca = new _2303_CalculateAmountPaidInTaxes();
+        ca.solution();
     }
 
 }
