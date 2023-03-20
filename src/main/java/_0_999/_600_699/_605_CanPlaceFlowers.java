@@ -46,4 +46,5 @@ public class _605_CanPlaceFlowers {
         System.out.println(canPlaceFlowers(new int[]{1, 0, 0, 0, 1}, 2));
     }
 
+
 }

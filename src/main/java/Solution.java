@@ -1,9 +1,9 @@
-import _0_999._600_699._605_CanPlaceFlowers;
+import _1000_1999._1100_1199._1189_MaximumNumberOfBalloons;
 
 public class Solution {
     public static void main(String[] args) {
-        _605_CanPlaceFlowers cp = new _605_CanPlaceFlowers();
-        cp.solution();
+        _1189_MaximumNumberOfBalloons mn = new _1189_MaximumNumberOfBalloons();
+        mn.solution();
     }
 
 
