@@ -1,9 +1,9 @@
-import _0_999._100_199._118_PascalsTriangle;
+import _0_999._100_199._171_ExcelSheetColumnNumber;
 
 public class Solution {
     public static void main(String[] args) {
-        _118_PascalsTriangle pt = new _118_PascalsTriangle();
-        pt.solution();
+        _171_ExcelSheetColumnNumber es = new _171_ExcelSheetColumnNumber();
+        es.solution();
     }
 
 
