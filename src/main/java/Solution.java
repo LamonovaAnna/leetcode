@@ -1,9 +1,9 @@
-import _0_999._200_299._202_HappyNumber;
+import _1000_1999._1600_1699._1678_GoalParserInterpretation;
 
 public class Solution {
     public static void main(String[] args) {
-        _202_HappyNumber hn = new _202_HappyNumber();
-        hn.solution();
+        _1678_GoalParserInterpretation gp = new _1678_GoalParserInterpretation();
+        gp.solution();
     }
 
 
