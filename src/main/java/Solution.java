@@ -1,9 +1,9 @@
-import _2000_2999._2400_2499._2418_SortThePeople;
+import _1000_1999._1000_1099._1021_RemoveOutermostParentheses;
 
 public class Solution {
     public static void main(String[] args) {
-        _2418_SortThePeople sp = new _2418_SortThePeople();
-        sp.solution();
+        _1021_RemoveOutermostParentheses ro = new _1021_RemoveOutermostParentheses();
+        ro.solution();
     }
 
 
