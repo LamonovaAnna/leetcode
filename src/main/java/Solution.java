@@ -1,9 +1,9 @@
-import _2000_2999._2100_2199._2108_FindFirstPalindromicStringInTheArray;
+import _2000_2999._2500_2599._2586_CountTheNumberOfVowelStringsInRange;
 
 public class Solution {
     public static void main(String[] args) {
-        _2108_FindFirstPalindromicStringInTheArray ff = new _2108_FindFirstPalindromicStringInTheArray();
-        ff.solution();
+        _2586_CountTheNumberOfVowelStringsInRange cn = new _2586_CountTheNumberOfVowelStringsInRange();
+        cn.solution();
     }
 
 
