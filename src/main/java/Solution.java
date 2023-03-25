@@ -1,9 +1,9 @@
-import _1000_1999._1600_1699._1684_CountTheNumberOfConsistentStrings;
+import _2000_2999._2300_2399._2315_CountAsterisks;
 
 public class Solution {
     public static void main(String[] args) {
-        _1684_CountTheNumberOfConsistentStrings cn = new _1684_CountTheNumberOfConsistentStrings();
-        cn.solution();
+        _2315_CountAsterisks ca = new _2315_CountAsterisks();
+        ca.solution();
     }
 
 
