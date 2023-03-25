@@ -1,9 +1,9 @@
-import _1000_1999._1600_1699._1662_CheckIfTwoStringArraysAreEquivalent;
+import _1000_1999._1800_1899._1832_CheckIfTheSentenceIsPangram;
 
 public class Solution {
     public static void main(String[] args) {
-        _1662_CheckIfTwoStringArraysAreEquivalent ct = new _1662_CheckIfTwoStringArraysAreEquivalent();
-        ct.solution();
+        _1832_CheckIfTheSentenceIsPangram cs = new _1832_CheckIfTheSentenceIsPangram();
+        cs.solution();
     }
 
 
