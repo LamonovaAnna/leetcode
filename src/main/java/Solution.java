@@ -1,9 +1,9 @@
-import _2000_2999._2100_2199._2194_CellsInARangeOnAnExcelSheet;
+import _1000_1999._1800_1899._1805_NumberOfDifferentIntegersInAString;
 
 public class Solution {
     public static void main(String[] args) {
-        _2194_CellsInARangeOnAnExcelSheet ci = new _2194_CellsInARangeOnAnExcelSheet();
-        ci.solution();
+        _1805_NumberOfDifferentIntegersInAString nd = new _1805_NumberOfDifferentIntegersInAString();
+        nd.solution();
     }
 
 
