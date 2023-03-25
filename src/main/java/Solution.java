@@ -1,9 +1,9 @@
-import _2000_2999._2100_2199._2103_RingsAndRods;
+import _2000_2999._2400_2499._2418_SortThePeople;
 
 public class Solution {
     public static void main(String[] args) {
-        _2103_RingsAndRods rr = new _2103_RingsAndRods();
-        rr.solution();
+        _2418_SortThePeople sp = new _2418_SortThePeople();
+        sp.solution();
     }
 
 
