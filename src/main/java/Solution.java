@@ -1,9 +1,9 @@
-import _2000_2999._2300_2399._2325_DecodeTheMessage;
+import _1000_1999._1700_1799._1773_CountItemsMatchingARule;
 
 public class Solution {
     public static void main(String[] args) {
-        _2325_DecodeTheMessage dm = new _2325_DecodeTheMessage();
-        dm.solution();
+        _1773_CountItemsMatchingARule cm = new _1773_CountItemsMatchingARule();
+        cm.solution();
     }
 
 
