@@ -1,9 +1,9 @@
-import _1000_1999._1700_1799._1773_CountItemsMatchingARule;
+import _1000_1999._1800_1899._1859_SortingTheSentence;
 
 public class Solution {
     public static void main(String[] args) {
-        _1773_CountItemsMatchingARule cm = new _1773_CountItemsMatchingARule();
-        cm.solution();
+        _1859_SortingTheSentence ss = new _1859_SortingTheSentence();
+        ss.solution();
     }
 
 
