@@ -1,9 +1,9 @@
-import _1000_1999._1800_1899._1805_NumberOfDifferentIntegersInAString;
+import _2000_2999._2300_2399._2325_DecodeTheMessage;
 
 public class Solution {
     public static void main(String[] args) {
-        _1805_NumberOfDifferentIntegersInAString nd = new _1805_NumberOfDifferentIntegersInAString();
-        nd.solution();
+        _2325_DecodeTheMessage dm = new _2325_DecodeTheMessage();
+        dm.solution();
     }
 
 
