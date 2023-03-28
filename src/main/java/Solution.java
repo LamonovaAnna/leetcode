@@ -1,9 +1,9 @@
-import _2000_2999._2500_2599._2586_CountTheNumberOfVowelStringsInRange;
+import _0_999._200_299._206_ReverseLinkedList;
 
 public class Solution {
     public static void main(String[] args) {
-        _2586_CountTheNumberOfVowelStringsInRange cn = new _2586_CountTheNumberOfVowelStringsInRange();
-        cn.solution();
+        _206_ReverseLinkedList rl = new _206_ReverseLinkedList();
+        rl.solution();
     }
 
 
