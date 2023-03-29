@@ -1,9 +1,9 @@
-import _2000_2999._2500_2599._2574_LeftAndRightSumDifferences;
+import _1000_1999._1500_1599._1512_NumberOfGoodPairs;
 
 public class Solution {
     public static void main(String[] args) {
-        _2574_LeftAndRightSumDifferences lr = new _2574_LeftAndRightSumDifferences();
-        lr.solution();
+        _1512_NumberOfGoodPairs no = new _1512_NumberOfGoodPairs();
+        no.solution();
     }
 
 
