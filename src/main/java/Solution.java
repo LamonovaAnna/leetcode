@@ -1,9 +1,9 @@
-import _2000_2999._2100_2199._2181_MergeNodesInBetweenZeros;
+import _0_999._900_999._977_SquaresOfASortedArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _2181_MergeNodesInBetweenZeros mn = new _2181_MergeNodesInBetweenZeros();
-        mn.solution();
+        _977_SquaresOfASortedArray sa = new _977_SquaresOfASortedArray();
+        sa.solution();
     }
 
 
