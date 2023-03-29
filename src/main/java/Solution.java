@@ -1,9 +1,9 @@
-import _0_999._900_999._977_SquaresOfASortedArray;
+import _2000_2999._2500_2599._2574_LeftAndRightSumDifferences;
 
 public class Solution {
     public static void main(String[] args) {
-        _977_SquaresOfASortedArray sa = new _977_SquaresOfASortedArray();
-        sa.solution();
+        _2574_LeftAndRightSumDifferences lr = new _2574_LeftAndRightSumDifferences();
+        lr.solution();
     }
 
 
