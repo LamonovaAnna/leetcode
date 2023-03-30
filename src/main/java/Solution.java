@@ -1,9 +1,9 @@
-import _1000_1999._1400_1499._1431_KidsWithTheGreatestNumberOfCandies;
+import _0_999._0_99._33_SearchInRotatedSortedArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _1431_KidsWithTheGreatestNumberOfCandies kg = new _1431_KidsWithTheGreatestNumberOfCandies();
-        kg.solution();
+        _33_SearchInRotatedSortedArray sr = new _33_SearchInRotatedSortedArray();
+        sr.solution();
     }
 
 
