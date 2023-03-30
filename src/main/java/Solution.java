@@ -1,9 +1,9 @@
-import _0_999._200_299._283_MoveZeroes;
+import _1000_1999._1400_1499._1431_KidsWithTheGreatestNumberOfCandies;
 
 public class Solution {
     public static void main(String[] args) {
-        _283_MoveZeroes mz = new _283_MoveZeroes();
-        mz.solution();
+        _1431_KidsWithTheGreatestNumberOfCandies kg = new _1431_KidsWithTheGreatestNumberOfCandies();
+        kg.solution();
     }
 
 
