@@ -1,9 +1,9 @@
-import _2000_2999._2300_2399._2351_FirstLetterToAppearTwice;
+import _1000_1999._1500_1599._1588_SumOfAllOddLengthSubarrays;
 
 public class Solution {
     public static void main(String[] args) {
-        _2351_FirstLetterToAppearTwice fl = new _2351_FirstLetterToAppearTwice();
-        fl.solution();
+        _1588_SumOfAllOddLengthSubarrays sa = new _1588_SumOfAllOddLengthSubarrays();
+        sa.solution();
     }
 
 
