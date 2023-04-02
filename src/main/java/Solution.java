@@ -1,10 +1,9 @@
-import _1000_1999._1600_1699._1604_AlertUsingSameKeyCardThreeOrMoreTimesInAOneHourPeriod;
+import _2000_2999._2500_2599._2545_SortTheStudentsByTheirKthScore;
 
 public class Solution {
     public static void main(String[] args) {
-        _1604_AlertUsingSameKeyCardThreeOrMoreTimesInAOneHourPeriod at = new _1604_AlertUsingSameKeyCardThreeOrMoreTimesInAOneHourPeriod();
-        at.solution();
-
+        _2545_SortTheStudentsByTheirKthScore ss = new _2545_SortTheStudentsByTheirKthScore();
+        ss.solution();
     }
 
 
