@@ -1,9 +1,9 @@
-import _1000_1999._1800_1899._1876_SubstringsOfSizeThreeWithDistinctCharacters;
+import _1000_1999._1900_1999._1910_RemoveAllOccurrencesOfASubstring;
 
 public class Solution {
     public static void main(String[] args) {
-        _1876_SubstringsOfSizeThreeWithDistinctCharacters ss = new _1876_SubstringsOfSizeThreeWithDistinctCharacters();
-        ss.solution();
+        _1910_RemoveAllOccurrencesOfASubstring ra = new _1910_RemoveAllOccurrencesOfASubstring();
+        ra.solution();
 
     }
 
