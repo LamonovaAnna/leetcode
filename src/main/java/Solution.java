@@ -1,9 +1,9 @@
-import _1000_1999._1500_1599._1588_SumOfAllOddLengthSubarrays;
+import _2000_2999._2500_2599._2500_DeleteGreatestValueInEachRow;
 
 public class Solution {
     public static void main(String[] args) {
-        _1588_SumOfAllOddLengthSubarrays sa = new _1588_SumOfAllOddLengthSubarrays();
-        sa.solution();
+        _2500_DeleteGreatestValueInEachRow dg = new _2500_DeleteGreatestValueInEachRow();
+        dg.solution();
     }
 
 
