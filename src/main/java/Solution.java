@@ -1,8 +1,9 @@
-import _2000_2999._2500_2599._2501_LongestSquareStreakInAnArray;
+import _0_999._0_99._3_LongestSubstringWithoutRepeatingCharacters;
+
 
 public class Solution {
     public static void main(String[] args) {
-        _2501_LongestSquareStreakInAnArray ls = new _2501_LongestSquareStreakInAnArray();
+        _3_LongestSubstringWithoutRepeatingCharacters ls = new _3_LongestSubstringWithoutRepeatingCharacters();
         ls.solution();
     }
 
