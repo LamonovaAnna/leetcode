@@ -1,9 +1,10 @@
-import _2000_2999._2500_2599._2553_SeparateTheDigitsInAnArray;
+import _1000_1999._1900_1999._1913_MaximumProductDifferenceBetweenTwoPairs;
 
 public class Solution {
     public static void main(String[] args) {
-        _2553_SeparateTheDigitsInAnArray sd = new _2553_SeparateTheDigitsInAnArray();
-        sd.solution();
+        _1913_MaximumProductDifferenceBetweenTwoPairs mp = new _1913_MaximumProductDifferenceBetweenTwoPairs();
+        mp.solution();
+
     }
 
 
