@@ -1,9 +1,9 @@
-import _0_999._700_799._791_CustomSortString;
+import _2000_2999._2400_2499._2405_OptimalPartitionofString;
 
 public class Solution {
     public static void main(String[] args) {
-        _791_CustomSortString cs = new _791_CustomSortString();
-        cs.solution();
+        _2405_OptimalPartitionofString op = new _2405_OptimalPartitionofString();
+        op.solution();
     }
 
 
