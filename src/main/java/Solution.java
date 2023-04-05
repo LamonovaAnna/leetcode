@@ -1,9 +1,9 @@
-import _0_999._400_499._463_IslandPerimeter;
+import _0_999._600_699._695_MaxAreaOfIsland;
 
 public class Solution {
     public static void main(String[] args) {
-        _463_IslandPerimeter ip = new _463_IslandPerimeter();
-        ip.solution();
+        _695_MaxAreaOfIsland ma = new _695_MaxAreaOfIsland();
+        ma.solution();
     }
 
 
