@@ -1,9 +1,9 @@
-import _2000_2999._2300_2399._2373_LargestLocalValuesInAMatrix;
+import _1000_1999._1500_1599._1572_MatrixDiagonalSum;
 
 public class Solution {
     public static void main(String[] args) {
-        _2373_LargestLocalValuesInAMatrix ll = new _2373_LargestLocalValuesInAMatrix();
-        ll.solution();
+        _1572_MatrixDiagonalSum md = new _1572_MatrixDiagonalSum();
+        md.solution();
     }
 
 
