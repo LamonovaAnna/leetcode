@@ -1,9 +1,9 @@
-import _1000_1999._1500_1599._1572_MatrixDiagonalSum;
+import _0_999._500_599._542_01Matrix;
 
 public class Solution {
     public static void main(String[] args) {
-        _1572_MatrixDiagonalSum md = new _1572_MatrixDiagonalSum();
-        md.solution();
+        _542_01Matrix mm = new _542_01Matrix();
+        mm.solution();
     }
 
 
