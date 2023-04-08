@@ -24,30 +24,14 @@ public class _206_ReverseLinkedList {
             return head;
         }
 
-        ListNode headTwo = head;
-        ListNode newHead = new ListNode(-1);
-        ListNode ans = newHead;
+        ListNode dummyNode = new ListNode(-1);
 
-        int counter = 0;
-        while (head.next != null) {
-            counter++;
+        while (head != null) {
+            ListNode tail = dummyNode.next;
+            dummyNode.next = new ListNode(head.val, tail);
             head = head.next;
         }
-
-        newHead.next = head;
-
-        while (counter != 0) {
-            newHead = newHead.next;
-            head = headTwo;
-            int tempCounter = counter - 1;
-            while (tempCounter != 0) {
-                tempCounter--;
-                head = head.next;
-            }
-            newHead.next = new ListNode(head.val);
-            counter--;
-        }
-        return ans.next;
+        return dummyNode.next;
     }
 
     public void solution() {
