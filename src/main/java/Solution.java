@@ -1,9 +1,9 @@
-import _0_999._200_299._206_ReverseLinkedList;
+import _0_999._0_99._77_Combinations;
 
 public class Solution {
     public static void main(String[] args) {
-        _206_ReverseLinkedList rl = new _206_ReverseLinkedList();
-        rl.solution();
+        _77_Combinations cc = new _77_Combinations();
+        cc.solution();
     }
 }
 
