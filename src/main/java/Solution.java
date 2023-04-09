@@ -1,9 +1,9 @@
-import _0_999._0_99._77_Combinations;
+import _1000_1999._1000_1099._1020_NumberOfEnclaves;
 
 public class Solution {
     public static void main(String[] args) {
-        _77_Combinations cc = new _77_Combinations();
-        cc.solution();
+        _1020_NumberOfEnclaves n = new _1020_NumberOfEnclaves();
+        n.solution();
     }
 }
 
