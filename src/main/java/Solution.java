@@ -1,9 +1,9 @@
-import _2000_2999._2300_2399._2390_RemovingStarsFromAString;
+import _2000_2999._2100_2199._2120_ExecutionOfAllSuffixInstructionsStayingInAGrid;
 
 public class Solution {
     public static void main(String[] args) {
-        _2390_RemovingStarsFromAString rs = new _2390_RemovingStarsFromAString();
-        rs.solution();
+        _2120_ExecutionOfAllSuffixInstructionsStayingInAGrid e = new _2120_ExecutionOfAllSuffixInstructionsStayingInAGrid();
+        e.solution();
     }
 }
 
