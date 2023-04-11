@@ -1,9 +1,9 @@
-import _2000_2999._2100_2199._2120_ExecutionOfAllSuffixInstructionsStayingInAGrid;
+import _2000_2999._2100_2199._2121_IntervalsBetweenIdenticalElementsTODO;
 
 public class Solution {
     public static void main(String[] args) {
-        _2120_ExecutionOfAllSuffixInstructionsStayingInAGrid e = new _2120_ExecutionOfAllSuffixInstructionsStayingInAGrid();
-        e.solution();
+        _2121_IntervalsBetweenIdenticalElementsTODO in = new _2121_IntervalsBetweenIdenticalElementsTODO();
+        in.solution();
     }
 }
 
