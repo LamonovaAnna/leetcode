@@ -1,9 +1,9 @@
-import _1000_1999._1000_1099._1020_NumberOfEnclaves;
+import _2000_2999._2300_2399._2390_RemovingStarsFromAString;
 
 public class Solution {
     public static void main(String[] args) {
-        _1020_NumberOfEnclaves n = new _1020_NumberOfEnclaves();
-        n.solution();
+        _2390_RemovingStarsFromAString rs = new _2390_RemovingStarsFromAString();
+        rs.solution();
     }
 }
 

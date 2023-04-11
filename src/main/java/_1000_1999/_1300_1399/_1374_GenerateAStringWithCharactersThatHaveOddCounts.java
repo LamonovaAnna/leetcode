@@ -4,7 +4,6 @@ package _1000_1999._1300_1399;
 public class _1374_GenerateAStringWithCharactersThatHaveOddCounts {
     public String generateTheString(int n) {
         StringBuilder sb = new StringBuilder();
-        int length = 0;
 
         sb.append("a".repeat(Math.max(0, n - 1)));
 
