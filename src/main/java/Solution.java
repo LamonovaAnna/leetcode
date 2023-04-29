@@ -1,9 +1,9 @@
-import _0_999._800_899._824_GoatLatin;
+import _1000_1999._1500_1599._1576_ReplaceAllToAvoidConsecutiveRepeatingCharacters;
 
 public class Solution {
     public static void main(String[] args) {
-        _824_GoatLatin gl = new _824_GoatLatin();
-        gl.solution();
+        _1576_ReplaceAllToAvoidConsecutiveRepeatingCharacters r = new _1576_ReplaceAllToAvoidConsecutiveRepeatingCharacters();
+        r.solution();
     }
 }
 
