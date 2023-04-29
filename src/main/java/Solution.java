@@ -1,9 +1,9 @@
-import _1000_1999._1600_1699._1694_ReformatPhoneNumber;
+import _0_999._800_899._824_GoatLatin;
 
 public class Solution {
     public static void main(String[] args) {
-        _1694_ReformatPhoneNumber r = new _1694_ReformatPhoneNumber();
-        r.solution();
+        _824_GoatLatin gl = new _824_GoatLatin();
+        gl.solution();
     }
 }
 
