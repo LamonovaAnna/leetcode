@@ -1,9 +1,9 @@
-import _1000_1999._1500_1599._1556_ThousandSeparator;
+import _1000_1999._1600_1699._1694_ReformatPhoneNumber;
 
 public class Solution {
     public static void main(String[] args) {
-        _1556_ThousandSeparator ts = new _1556_ThousandSeparator();
-        ts.solution();
+        _1694_ReformatPhoneNumber r = new _1694_ReformatPhoneNumber();
+        r.solution();
     }
 }
 
