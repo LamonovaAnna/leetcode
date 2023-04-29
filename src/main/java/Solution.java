@@ -1,9 +1,9 @@
-import _1000_1999._1700_1799._1768_MergeStringsAlternately;
+import _2000_2999._2600_2699._2645_MinimumAdditionsToMakeValidString;
 
 public class Solution {
     public static void main(String[] args) {
-        _1768_MergeStringsAlternately ms = new _1768_MergeStringsAlternately();
-        ms.solution();
+        _2645_MinimumAdditionsToMakeValidString m = new _2645_MinimumAdditionsToMakeValidString();
+        m.solution();
     }
 }
 
