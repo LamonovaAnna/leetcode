@@ -1,9 +1,9 @@
-import _1000_1999._1400_1499._1450_NumberOfStudentsDoingHomeworkAtAGivenTime;
+import _1000_1999._1500_1599._1592_RearrangeSpacesBetweenWords;
 
 public class Solution {
     public static void main(String[] args) {
-        _1450_NumberOfStudentsDoingHomeworkAtAGivenTime n = new _1450_NumberOfStudentsDoingHomeworkAtAGivenTime();
-        n.solution();
+        _1592_RearrangeSpacesBetweenWords r = new _1592_RearrangeSpacesBetweenWords();
+        r.solution();
     }
 }
 
