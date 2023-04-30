@@ -1,9 +1,9 @@
-import _1000_1999._1500_1599._1576_ReplaceAllToAvoidConsecutiveRepeatingCharacters;
+import _1000_1999._1300_1399._1380_LuckyNumbersInAMatrix;
 
 public class Solution {
     public static void main(String[] args) {
-        _1576_ReplaceAllToAvoidConsecutiveRepeatingCharacters r = new _1576_ReplaceAllToAvoidConsecutiveRepeatingCharacters();
-        r.solution();
+        _1380_LuckyNumbersInAMatrix l = new _1380_LuckyNumbersInAMatrix();
+        l.solution();
     }
 }
 
