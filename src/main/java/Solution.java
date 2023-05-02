@@ -1,9 +1,9 @@
-import _1000_1999._1300_1399._1394_FindLuckyIntegerInAnArray;
+import _1000_1999._1800_1899._1823_FindTheWinnerOfTheCircularGame;
 
 public class Solution {
     public static void main(String[] args) {
-        _1394_FindLuckyIntegerInAnArray fl = new _1394_FindLuckyIntegerInAnArray();
-        fl.solution();
+        _1823_FindTheWinnerOfTheCircularGame f = new _1823_FindTheWinnerOfTheCircularGame();
+        f.solution();
     }
 }
 
