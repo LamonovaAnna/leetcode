@@ -1,9 +1,9 @@
-import _2000_2999._2100_2199._2154_KeepMultiplyingFoundValuesByTwo;
+import _1000_1999._1300_1399._1346_CheckIfNAndItsDoubleExist;
 
 public class Solution {
     public static void main(String[] args) {
-        _2154_KeepMultiplyingFoundValuesByTwo k = new _2154_KeepMultiplyingFoundValuesByTwo();
-        k.solution();
+        _1346_CheckIfNAndItsDoubleExist c = new _1346_CheckIfNAndItsDoubleExist();
+        c.solution();
     }
 }
 
