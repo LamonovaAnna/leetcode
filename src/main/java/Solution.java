@@ -1,9 +1,9 @@
-import _0_999._700_799._747_LargestNumberAtLeastTwiceOfOthers;
+import _2000_2999._2100_2199._2154_KeepMultiplyingFoundValuesByTwo;
 
 public class Solution {
     public static void main(String[] args) {
-        _747_LargestNumberAtLeastTwiceOfOthers ln = new _747_LargestNumberAtLeastTwiceOfOthers();
-        ln.solution();
+        _2154_KeepMultiplyingFoundValuesByTwo k = new _2154_KeepMultiplyingFoundValuesByTwo();
+        k.solution();
     }
 }
 
