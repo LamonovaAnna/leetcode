@@ -14,32 +14,44 @@ public class _1456_MaximumNumberOfVowelsInASubstringOfGivenLength {
         vowels.add('o');
         vowels.add('u');
 
-        int start = 0;
+        int[] sum = new int[s.length()];
 
-        while (start + k <= s.length()) {
-            int temp = 0;
-            for (int i = start; i < start + k; i++) {
-                if (vowels.contains(s.charAt(i))) {
-                    temp++;
-                }
+        int counter = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (vowels.contains(s.charAt(i))) {
+                counter++;
+            }
+            sum[i] = counter;
+        }
+
+        if (k == 1) {
+            if (counter > 0) {
+                ans = 1;
+            }
+            return ans;
+        }
+
+        for (int i = 0; i <= sum.length - k; i++) {
+            int vSum;
+            if (i == 0) {
+                vSum = sum[i + k - 1];
+            } else {
+                vSum = sum[i + k - 1] - sum[i - 1];
             }
 
-            if (temp > ans) {
-                ans = temp;
-            }
-            if (ans == k) {
+
+            if (vSum == k) {
+                ans = vSum;
                 break;
             }
-            if (temp == 0 && k > 2) {
-                start += k - 1;
-            } else {
-                start++;
+            if (vSum > ans) {
+                ans = vSum;
             }
         }
         return ans;
     }
 
     public void solution() {
-        System.out.println(maxVowels("tryhard", 4));
+        System.out.println(maxVowels("weallloveyou", 7));
     }
 }

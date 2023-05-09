@@ -1,9 +1,9 @@
-import _2000_2999._2300_2399._2379_MinimumRecolorsToGetKConsecutiveBlackBlocks;
+import _1000_1999._1400_1499._1456_MaximumNumberOfVowelsInASubstringOfGivenLength;
 
 public class Solution {
     public static void main(String[] args) {
-        _2379_MinimumRecolorsToGetKConsecutiveBlackBlocks m = new _2379_MinimumRecolorsToGetKConsecutiveBlackBlocks();
-        m.solution();
+        _1456_MaximumNumberOfVowelsInASubstringOfGivenLength mn = new _1456_MaximumNumberOfVowelsInASubstringOfGivenLength();
+        mn.solution();
     }
 }
 
