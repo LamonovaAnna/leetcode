@@ -1,9 +1,9 @@
-import _0_999._0_99._54_SpiralMatrix;
+import _2000_2999._2300_2399._2379_MinimumRecolorsToGetKConsecutiveBlackBlocks;
 
 public class Solution {
     public static void main(String[] args) {
-        _54_SpiralMatrix sm = new _54_SpiralMatrix();
-        sm.solution();
+        _2379_MinimumRecolorsToGetKConsecutiveBlackBlocks m = new _2379_MinimumRecolorsToGetKConsecutiveBlackBlocks();
+        m.solution();
     }
 }
 
