@@ -1,9 +1,9 @@
-import _1000_1999._1600_1699._1624_LargestSubstringBetweenTwoEqualCharacters;
+import _2000_2999._2600_2699._2661_FirstCompletelyPaintedRowOrColumn;
 
 public class Solution {
     public static void main(String[] args) {
-        _1624_LargestSubstringBetweenTwoEqualCharacters ls = new _1624_LargestSubstringBetweenTwoEqualCharacters();
-        ls.solution();
+        _2661_FirstCompletelyPaintedRowOrColumn fc = new _2661_FirstCompletelyPaintedRowOrColumn();
+        fc.solution();
     }
 }
 
