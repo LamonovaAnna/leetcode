@@ -41,7 +41,6 @@ public class _36_ValidSudoku {
     }
 
     private boolean fillSquare(Map<Integer, int[]> squares, int val, int col, int row) {
-
         if (col < 3 && row < 3) {
             if (!squares.containsKey(1)) {
                 squares.put(1, new int[9]);
