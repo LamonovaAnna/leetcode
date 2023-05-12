@@ -1,9 +1,9 @@
-import _1000_1999._1600_1699._1652_DefuseTheBomb;
+import _2000_2999._2400_2499._2490_CircularSentence;
 
 public class Solution {
     public static void main(String[] args) {
-        _1652_DefuseTheBomb d = new _1652_DefuseTheBomb();
-        d.solution();
+        _2490_CircularSentence cs = new _2490_CircularSentence();
+        cs.solution();
     }
 }
 
