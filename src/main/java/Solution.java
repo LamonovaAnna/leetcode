@@ -1,9 +1,9 @@
-import _2000_2999._2100_2199._2133_CheckIfEveryRowAndColumnContainsAllNumbers;
+import _2000_2999._2400_2499._2482_DifferenceBetweenOnesAndZerosInRowAndColumn;
 
 public class Solution {
     public static void main(String[] args) {
-        _2133_CheckIfEveryRowAndColumnContainsAllNumbers c = new _2133_CheckIfEveryRowAndColumnContainsAllNumbers();
-        c.solution();
+        _2482_DifferenceBetweenOnesAndZerosInRowAndColumn d = new _2482_DifferenceBetweenOnesAndZerosInRowAndColumn();
+        d.solution();
     }
 }
 
