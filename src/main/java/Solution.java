@@ -1,9 +1,9 @@
-import _0_999._300_399._345_ReverseVowelsOfAString;
+import _0_999._200_299._238_ProductOfArrayExceptSelf;
 
 public class Solution {
     public static void main(String[] args) {
-        _345_ReverseVowelsOfAString rv = new _345_ReverseVowelsOfAString();
-        rv.solution();
+        _238_ProductOfArrayExceptSelf p = new _238_ProductOfArrayExceptSelf();
+        p.solution();
     }
 }
 
