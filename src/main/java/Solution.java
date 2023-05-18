@@ -1,9 +1,9 @@
-import _0_999._100_199._151_ReverseWordsInAString;
+import _0_999._300_399._345_ReverseVowelsOfAString;
 
 public class Solution {
     public static void main(String[] args) {
-        _151_ReverseWordsInAString rs = new _151_ReverseWordsInAString();
-        rs.solution();
+        _345_ReverseVowelsOfAString rv = new _345_ReverseVowelsOfAString();
+        rv.solution();
     }
 }
 
