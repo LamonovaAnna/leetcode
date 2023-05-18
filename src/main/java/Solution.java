@@ -1,9 +1,9 @@
-import _0_999._200_299._238_ProductOfArrayExceptSelf;
+import _0_999._300_399._334_IncreasingTripletSubsequence;
 
 public class Solution {
     public static void main(String[] args) {
-        _238_ProductOfArrayExceptSelf p = new _238_ProductOfArrayExceptSelf();
-        p.solution();
+        _334_IncreasingTripletSubsequence i = new _334_IncreasingTripletSubsequence();
+        i.solution();
     }
 }
 
