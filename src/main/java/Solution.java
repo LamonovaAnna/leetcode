@@ -1,9 +1,9 @@
-import _0_999._0_99._11_ContainerWithMostWater;
+import _1000_1999._1600_1699._1679_MaxNumberOfKSumPairs;
 
 public class Solution {
     public static void main(String[] args) {
-        _11_ContainerWithMostWater c = new _11_ContainerWithMostWater();
-        c.solution();
+        _1679_MaxNumberOfKSumPairs m = new _1679_MaxNumberOfKSumPairs();
+        m.solution();
     }
 }
 
