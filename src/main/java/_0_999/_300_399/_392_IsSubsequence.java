@@ -7,11 +7,8 @@ public class _392_IsSubsequence {
             return false;
         }
 
-        char[] letters = new char[t.length()];
+        char[] letters = t.toCharArray();
         int index = 0;
-        for (int i = 0; i < t.length(); i++) {
-            letters[i] = t.charAt(i);
-        }
 
         for (int i = 0; i < s.length(); i++) {
             if (index == letters.length) {
