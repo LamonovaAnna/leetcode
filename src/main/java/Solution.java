@@ -1,8 +1,8 @@
-import _1000_1999._1600_1699._1679_MaxNumberOfKSumPairs;
+import _0_999._600_699._643_MaximumAverageSubarrayI;
 
 public class Solution {
     public static void main(String[] args) {
-        _1679_MaxNumberOfKSumPairs m = new _1679_MaxNumberOfKSumPairs();
+        _643_MaximumAverageSubarrayI m = new _643_MaximumAverageSubarrayI();
         m.solution();
     }
 }
