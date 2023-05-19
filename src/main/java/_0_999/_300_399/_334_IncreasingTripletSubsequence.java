@@ -1,6 +1,5 @@
 package _0_999._300_399;
 
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -38,7 +37,7 @@ public class _334_IncreasingTripletSubsequence {
 
     public void solution() {
         //System.out.println(increasingTriplet(new int[] {1,2,3,4,5}));
-        System.out.println(increasingTriplet(new int[] {1,2,1,2,1,2,1,2,1,2}));
-        System.out.println(increasingTriplet(new int[] {20,100,10,12,5,13}));
+        System.out.println(increasingTriplet(new int[]{1, 2, 1, 2, 1, 2, 1, 2, 1, 2}));
+        System.out.println(increasingTriplet(new int[]{20, 100, 10, 12, 5, 13}));
     }
 }

@@ -1,9 +1,9 @@
-import _0_999._300_399._334_IncreasingTripletSubsequence;
+import _1000_1999._1400_1499._1456_MaximumNumberOfVowelsInASubstringOfGivenLength;
 
 public class Solution {
     public static void main(String[] args) {
-        _334_IncreasingTripletSubsequence i = new _334_IncreasingTripletSubsequence();
-        i.solution();
+        _1456_MaximumNumberOfVowelsInASubstringOfGivenLength m = new _1456_MaximumNumberOfVowelsInASubstringOfGivenLength();
+        m.solution();
     }
 }
 

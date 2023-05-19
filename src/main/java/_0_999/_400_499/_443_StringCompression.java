@@ -14,7 +14,7 @@ public class _443_StringCompression {
             if (chars[i] != chars[i + 1] || i == chars.length - 2) {
                 boolean isCounter = false;
                 if (i == chars.length - 2 && chars[i] == chars[i + 1]) {
-                   counter++;
+                    counter++;
                 }
 
                 result += 1;
@@ -57,13 +57,15 @@ public class _443_StringCompression {
                 counter++;
             }
         }
+
         return result;
     }
 
     public void solution() {
+        System.out.println(compress(new char[]{'1', '2', '3', '3', '2'}));
         System.out.println(compress(new char[]{'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b'}));
-        System.out.println(compress(new char[]{'c','o','o'}));
-        System.out.println(compress(new char[]{'a','a','a','a','b','a'}));
+        System.out.println(compress(new char[]{'c', 'o', 'o'}));
+        System.out.println(compress(new char[]{'a', 'a', 'a', 'a', 'b', 'a'}));
         System.out.println(compress(new char[]{'a', 'a'}));
         System.out.println(compress(new char[]{'a', 'a', 'b', 'b', 'c', 'c', 'c'}));
         System.out.println(compress(new char[]{'a'}));
