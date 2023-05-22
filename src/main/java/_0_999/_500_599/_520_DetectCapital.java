@@ -34,6 +34,6 @@ public class _520_DetectCapital {
     }
 
     public void solution() {
-        System.out.println("USA");
+        System.out.println(detectCapitalUse("USA"));
     }
 }
