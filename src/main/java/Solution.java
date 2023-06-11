@@ -1,8 +1,8 @@
-import _2000_2999._2600_2699._2697_LexicographicallySmallestPalindrome;
+import _0_999._800_899._811_SubdomainVisitCount;
 
 public class Solution {
     public static void main(String[] args) {
-        _2697_LexicographicallySmallestPalindrome s = new _2697_LexicographicallySmallestPalindrome();
+        _811_SubdomainVisitCount s = new _811_SubdomainVisitCount();
         s.solution();
     }
 }
