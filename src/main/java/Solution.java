@@ -1,9 +1,9 @@
-import _0_999._800_899._811_SubdomainVisitCount;
+import _2000_2999._2200_2299._2225_FindPlayersWithZeroOrOneLosses;
 
 public class Solution {
     public static void main(String[] args) {
-        _811_SubdomainVisitCount s = new _811_SubdomainVisitCount();
-        s.solution();
+        _2225_FindPlayersWithZeroOrOneLosses f = new _2225_FindPlayersWithZeroOrOneLosses();
+        f.solution();
     }
 }
 
