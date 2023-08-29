@@ -1,8 +1,8 @@
-import _2000_2999._2000_2099._2006_CountNumberOfPairsWithAbsoluteDifferenceK;
+import _2000_2999._2100_2199._2176_CountEqualAndDivisiblePairsInAnArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _2006_CountNumberOfPairsWithAbsoluteDifferenceK c = new _2006_CountNumberOfPairsWithAbsoluteDifferenceK();
+        _2176_CountEqualAndDivisiblePairsInAnArray c = new _2176_CountEqualAndDivisiblePairsInAnArray();
         c.solution();
     }
 }
