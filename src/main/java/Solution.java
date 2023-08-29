@@ -1,9 +1,9 @@
-import _2000_2999._2200_2299._2225_FindPlayersWithZeroOrOneLosses;
+import _0_999._500_599._599_MinimumIndexSumOfTwoLists;
 
 public class Solution {
     public static void main(String[] args) {
-        _2225_FindPlayersWithZeroOrOneLosses f = new _2225_FindPlayersWithZeroOrOneLosses();
-        f.solution();
+        _599_MinimumIndexSumOfTwoLists mi = new _599_MinimumIndexSumOfTwoLists();
+        mi.solution();
     }
 }
 
