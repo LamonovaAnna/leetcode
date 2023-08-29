@@ -1,9 +1,9 @@
-import _0_999._500_599._599_MinimumIndexSumOfTwoLists;
+import _2000_2999._2000_2099._2006_CountNumberOfPairsWithAbsoluteDifferenceK;
 
 public class Solution {
     public static void main(String[] args) {
-        _599_MinimumIndexSumOfTwoLists mi = new _599_MinimumIndexSumOfTwoLists();
-        mi.solution();
+        _2006_CountNumberOfPairsWithAbsoluteDifferenceK c = new _2006_CountNumberOfPairsWithAbsoluteDifferenceK();
+        c.solution();
     }
 }
 
