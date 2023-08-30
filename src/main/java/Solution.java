@@ -1,9 +1,9 @@
-import _2000_2999._2100_2199._2176_CountEqualAndDivisiblePairsInAnArray;
+import _0_999._500_599._532_KDiffPairsInAnArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _2176_CountEqualAndDivisiblePairsInAnArray c = new _2176_CountEqualAndDivisiblePairsInAnArray();
-        c.solution();
+        _532_KDiffPairsInAnArray k = new _532_KDiffPairsInAnArray();
+        k.solution();
     }
 }
 
