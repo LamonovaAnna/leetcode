@@ -1,9 +1,9 @@
-import _2000_2999._2200_2299._2200_FindAllKDistantIndicesInAnArray;
+import _2000_2999._2300_2399._2399_CheckDistancesBetweenSameLetters;
 
 public class Solution {
     public static void main(String[] args) {
-        _2200_FindAllKDistantIndicesInAnArray f = new _2200_FindAllKDistantIndicesInAnArray();
-        f.solution();
+        _2399_CheckDistancesBetweenSameLetters c = new _2399_CheckDistancesBetweenSameLetters();
+        c.solution();
     }
 }
 
