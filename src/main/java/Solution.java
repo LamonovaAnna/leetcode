@@ -1,9 +1,9 @@
-import _0_999._500_599._532_KDiffPairsInAnArray;
+import _2000_2999._2200_2299._2200_FindAllKDistantIndicesInAnArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _532_KDiffPairsInAnArray k = new _532_KDiffPairsInAnArray();
-        k.solution();
+        _2200_FindAllKDistantIndicesInAnArray f = new _2200_FindAllKDistantIndicesInAnArray();
+        f.solution();
     }
 }
 
