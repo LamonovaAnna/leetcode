@@ -1,9 +1,9 @@
-import _2000_2999._2300_2399._2399_CheckDistancesBetweenSameLetters;
+import _0_999._800_899._833_FindAndReplaceInString;
 
 public class Solution {
     public static void main(String[] args) {
-        _2399_CheckDistancesBetweenSameLetters c = new _2399_CheckDistancesBetweenSameLetters();
-        c.solution();
+        _833_FindAndReplaceInString f = new _833_FindAndReplaceInString();
+        f.solution();
     }
 }
 
