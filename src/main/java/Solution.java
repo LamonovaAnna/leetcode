@@ -1,9 +1,9 @@
-import _1000_1999._1700_1799._1732_FindTheHighestAltitude;
+import _0_999._700_799._724_FindPivotIndex;
 
 public class Solution {
     public static void main(String[] args) {
-        _1732_FindTheHighestAltitude f = new _1732_FindTheHighestAltitude();
-        f.solution();
+        _724_FindPivotIndex p = new _724_FindPivotIndex();
+        p.solution();
     }
 }
 
