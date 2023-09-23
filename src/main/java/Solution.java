@@ -1,10 +1,9 @@
-import _0_999._0_99._17_LetterCombinationsOfAPhoneNumberTODO;
-import _0_999._700_799._724_FindPivotIndex;
+import _2000_2999._2300_2399._2352_EqualRowAndColumnPairs;
 
 public class Solution {
     public static void main(String[] args) {
-        _17_LetterCombinationsOfAPhoneNumberTODO l = new _17_LetterCombinationsOfAPhoneNumberTODO();
-        l.solution();
+        _2352_EqualRowAndColumnPairs e = new _2352_EqualRowAndColumnPairs();
+        e.solution();
     }
 }
 
