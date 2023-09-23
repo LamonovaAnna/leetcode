@@ -8,7 +8,7 @@ import java.util.Map;
 // 17. Letter Combinations of a Phone Number
 public class _17_LetterCombinationsOfAPhoneNumberTODO {
     public List<String> letterCombinations(String digits) {
-        if (digits.isBlank()) {
+        if (digits.isBlank() ) {
             return new ArrayList<>();
         }
         String[] digit = digits.split("");
@@ -24,19 +24,56 @@ public class _17_LetterCombinationsOfAPhoneNumberTODO {
         letters.put(8, List.of('t', 'u', 'v'));
         letters.put(9, List.of('w', 'x', 'y', 'z'));
 
-        StringBuilder sb = new StringBuilder();
+
         for (Character letter1 : letters.get(Integer.parseInt(digit[0]))) {
+            StringBuilder sb = new StringBuilder();
             sb.append(letter1);
+            if (digits.length() < 2) {
+                ans.add(String.valueOf(sb));
+                sb = new StringBuilder();
+            }
+
             if (digit.length > 1) {
                 for (Character letter2 : letters.get(Integer.parseInt(digit[1]))) {
                     sb.append(letter2);
+                    if (digits.length() < 3) {
+                        ans.add(String.valueOf(sb));
+                        sb.deleteCharAt(sb.length() - 1);
+                    }
+
+                    if (digit.length > 2) {
+                        for (Character letter3 : letters.get(Integer.parseInt(digit[2]))) {
+                            sb.append(letter3);
+                            if (digits.length() < 4) {
+                                ans.add(String.valueOf(sb));
+                                sb.deleteCharAt(sb.length() - 1);
+                            }
+
+                            if (digit.length > 3) {
+                                for (Character letter4 : letters.get(Integer.parseInt(digit[3]))) {
+                                    sb.append(letter4);
+                                    if (digits.length() < 5) {
+                                        ans.add(String.valueOf(sb));
+                                        sb.deleteCharAt(sb.length() - 1);
+                                    }
+                                }
+                                if (!sb.isEmpty()) {
+                                    sb.deleteCharAt(sb.length() - 1);
+                                }
+                            }
+                        }
+                        if (!sb.isEmpty()) {
+                            sb.deleteCharAt(sb.length() - 1);
+                        }
+                    }
                 }
             }
         }
+
         return ans;
     }
 
     public void solution() {
-        System.out.println(letterCombinations("23"));
+        System.out.println(letterCombinations("2345"));
     }
 }
