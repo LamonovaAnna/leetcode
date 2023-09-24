@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 // 17. Letter Combinations of a Phone Number
-public class _17_LetterCombinationsOfAPhoneNumberTODO {
+public class _17_LetterCombinationsOfAPhoneNumber {
     public List<String> letterCombinations(String digits) {
         if (digits.isBlank() ) {
             return new ArrayList<>();
