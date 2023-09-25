@@ -1,9 +1,9 @@
-import _1000_1999._1200_1299._1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo;
+import _2000_2999._2400_2499._2423_RemoveLetterToEqualizeFrequencyTODO;
 
 public class Solution {
     public static void main(String[] args) {
-        _1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo g = new _1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo();
-        g.solution();
+        _2423_RemoveLetterToEqualizeFrequencyTODO r = new _2423_RemoveLetterToEqualizeFrequencyTODO();
+        r.solution();
     }
 }
 
