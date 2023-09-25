@@ -1,9 +1,9 @@
-import _0_999._400_499._451_SortCharactersByFrequency;
+import _2000_2999._2200_2299._2283_CheckIfNumberHasEqualDigitCountAndDigitValue;
 
 public class Solution {
     public static void main(String[] args) {
-        _451_SortCharactersByFrequency s = new _451_SortCharactersByFrequency();
-        s.solution();
+        _2283_CheckIfNumberHasEqualDigitCountAndDigitValue c = new _2283_CheckIfNumberHasEqualDigitCountAndDigitValue();
+        c.solution();
     }
 }
 
