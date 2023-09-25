@@ -1,9 +1,9 @@
-import _2000_2999._2400_2499._2423_RemoveLetterToEqualizeFrequency;
+import _0_999._400_499._451_SortCharactersByFrequency;
 
 public class Solution {
     public static void main(String[] args) {
-        _2423_RemoveLetterToEqualizeFrequency r = new _2423_RemoveLetterToEqualizeFrequency();
-        r.solution();
+        _451_SortCharactersByFrequency s = new _451_SortCharactersByFrequency();
+        s.solution();
     }
 }
 
