@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 // 2423. Remove Letter To Equalize Frequency
-public class _2423_RemoveLetterToEqualizeFrequencyTODO {
+public class _2423_RemoveLetterToEqualizeFrequency {
     public boolean equalFrequency(String word) {
         int[] alphabet = new int[26];
 
