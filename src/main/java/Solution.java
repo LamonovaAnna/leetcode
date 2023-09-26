@@ -1,9 +1,9 @@
-import _2000_2999._2200_2299._2283_CheckIfNumberHasEqualDigitCountAndDigitValue;
+import _0_999._0_99._46_PermutationsTODO;
 
 public class Solution {
     public static void main(String[] args) {
-        _2283_CheckIfNumberHasEqualDigitCountAndDigitValue c = new _2283_CheckIfNumberHasEqualDigitCountAndDigitValue();
-        c.solution();
+        _46_PermutationsTODO p = new _46_PermutationsTODO();
+        p.solution();
     }
 }
 
