@@ -1,9 +1,9 @@
-import _0_999._0_99._46_PermutationsTODO;
+import _2000_2999._2300_2399._2341_MaximumNumberOfPairsInArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _46_PermutationsTODO p = new _46_PermutationsTODO();
-        p.solution();
+        _2341_MaximumNumberOfPairsInArray m = new _2341_MaximumNumberOfPairsInArray();
+        m.solution();
     }
 }
 
