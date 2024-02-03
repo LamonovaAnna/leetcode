@@ -1,8 +1,8 @@
-import _2000_2999._2500_2599._2563_CountTheNumberOfFairPairs;
+import _2000_2999._2200_2299._2221_FindTriangularSumOfAnArray;
 
 public class Solution {
     public static void main(String[] args) {
-        _2563_CountTheNumberOfFairPairs c = new _2563_CountTheNumberOfFairPairs();
+        _2221_FindTriangularSumOfAnArray c = new _2221_FindTriangularSumOfAnArray();
         c.solution();
     }
 }

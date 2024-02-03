@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 // 2563. Count the Number of Fair Pairs
-public class _2563_CountTheNumberOfFairPairs {
+public class _2563_CountTheNumberOfFairPairsTODO {
     public long countFairPairs(int[] nums, int lower, int upper) {
         Arrays.sort(nums);
         int ans = 0;
