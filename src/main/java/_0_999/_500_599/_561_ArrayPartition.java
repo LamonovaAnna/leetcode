@@ -17,4 +17,5 @@ public class _561_ArrayPartition {
 
         return ans;
     }
+
 }

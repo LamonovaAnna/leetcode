@@ -1,8 +1,8 @@
-import _2000_2999._2200_2299._2221_FindTriangularSumOfAnArray;
+import _1000_1999._1700_1799._1716_CalculateMoneyInLeetcodeBank;
 
 public class Solution {
     public static void main(String[] args) {
-        _2221_FindTriangularSumOfAnArray c = new _2221_FindTriangularSumOfAnArray();
+        _1716_CalculateMoneyInLeetcodeBank c = new _1716_CalculateMoneyInLeetcodeBank();
         c.solution();
     }
 }
